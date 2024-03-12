@@ -1,0 +1,23 @@
+body {
+    padding: 10px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 17vw;
+    object-fit: cover;
+    border: 5px;
+}
+
+br {
+    display: block;
+    margin: 1px 0;
+}
+
+
+img{
+    border-radius: 2px;
+    border: 2px solid black;
+}
+
+
